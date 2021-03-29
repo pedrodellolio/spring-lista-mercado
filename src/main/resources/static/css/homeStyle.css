@@ -1,0 +1,42 @@
+.content-table .button {
+	width: 100px;
+}
+
+
+.content.container {
+    height: auto;
+    flex-direction: column;
+    min-height: 80vh;
+
+}
+
+.content-title, .content-table {
+    padding: 20px;
+}
+
+.content-table {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.content-table .content-button {
+    margin-bottom: 30px;
+
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 0.8em;
+    overflow: hidden;
+}
+
+table thead {
+    background: var(--primary);
+    color: var(--secondary_text);
+}
+
+table th {
+    font-weight: 500;
+}
