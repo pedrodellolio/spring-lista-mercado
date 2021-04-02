@@ -19,7 +19,8 @@ O site permite o cadastramento de produtos, digitalizando a famosa lista de comp
 As seguintes ferramentas foram usadas no projeto:
 * Linguagens
   - **Java**
-  - **HTML e CSS**
+  - **HTML com Thymeleaf**
+  - **CSS**
 * Frameworks
   - **Spring Boot**
   - **Spring Data**
